@@ -1,0 +1,11 @@
+D:\Projects\PixelBattle\bin\Debug\PixelBattle.exe.config
+D:\Projects\PixelBattle\bin\Debug\PixelBattle.exe
+D:\Projects\PixelBattle\bin\Debug\PixelBattle.pdb
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.csproj.AssemblyReference.cache
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.csproj.SuggestedBindingRedirects.cache
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.Form1.resources
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.Properties.Resources.resources
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.csproj.GenerateResource.cache
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.csproj.CoreCompileInputs.cache
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.exe
+D:\Projects\PixelBattle\obj\Debug\PixelBattle.pdb
